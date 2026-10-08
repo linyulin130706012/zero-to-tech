@@ -14,7 +14,7 @@ import "./css/lab.css";
 import "./css/responsive.css";
 
 createRoot(document.getElementById("root")).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
+	<StrictMode>
+		<App />
+	</StrictMode>,
 );
